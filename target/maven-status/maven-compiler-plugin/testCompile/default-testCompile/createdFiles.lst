@@ -1,0 +1,13 @@
+Pomclass\LogOutPage.class
+utility\ReadExcelFile.class
+Pomclass\FillRegisterForm.class
+MyntaTestCases\BaseClassMyntra.class
+MyntaTestCases\Search_test.class
+MyntaPompages\SelectSizepage.class
+MyntaPompages\SearchPage.class
+Pomclass\LoginPage.class
+Pomclass\Registerpage.class
+Pomclass\CheckBag.class
+utility\ReadPropertyFile.class
+MyntaPompages\AddToCart.class
+utility\Screenshot.class
